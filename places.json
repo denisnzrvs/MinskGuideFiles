@@ -1,0 +1,180 @@
+{
+    "places": {
+        "restaurants": [
+            {
+                "id": 1,
+                "name": "Miraž",
+                "address": "Street Kulman, 5b",
+                "latitude": 53.921243776288826,
+                "longitude": 27.57993359997196,
+                "recommendation": "You must try the kebab at this popular spot known for its delicious grilled dishes."
+            },
+            {
+                "id": 2,
+                "name": "Pesochnica",
+                "address": "Street Kujbyšava, 45",
+                "latitude": 53.91491766969068,
+                "longitude": 27.57013491943066,
+                "recommendation": "You must try all from waffles to burgers at this trendy food court offering a variety of street food options."
+            },
+            {
+                "id": 3,
+                "name": "DEPO",
+                "address": "Street Kastryčnickaja, 23",
+                "latitude": 53.89016122410179,
+                "longitude": 27.574418332783168,
+                "recommendation": "You must try the crepes at this cozy café known for its delightful sweet and savory treats."
+            },
+            {
+                "id": 4,
+                "name": "Lido",
+                "address": "Street Niezaležnasci, 49/1",
+                "latitude": 53.917046159803874,
+                "longitude": 27.58536194579001,
+                "recommendation": "You must try the home-made dishes at this popular restaurant offering traditional Belarusian cuisine."
+            },
+            {
+                "id": 5,
+                "name": "Enzo",
+                "address": "Street Kastryčnickaja, 23",
+                "latitude": 53.89016122410179,
+                "longitude": 27.574418332783168,
+                "recommendation": "You must try the Enzo Burger, Texas Burger, and steaks at this hip eatery known for its gourmet burgers."
+            },
+            {
+                "id": 6,
+                "name": "Pinky Bandinsky",
+                "address": "Street Kamsamolskaja, 13a",
+                "latitude": 53.90286820117456,
+                "longitude": 27.552860869317133,
+                "recommendation": "You must try dinner at this chic restaurant offering a creative menu and a stylish atmosphere."
+            },
+            {
+                "id": 7,
+                "name": "Vasilki",
+                "address": "Street praspiekt Niezaležnasci, 16",
+                "latitude": 53.89858879619436,
+                "longitude": 27.55552445549251,
+                "recommendation": "You must try draniki, kolduny, pancakes, shank, and “Olivier” salad at this restaurant known for its authentic Belarusian dishes."
+            }
+        ],
+        "museums": [
+            {
+                "id": 8,
+                "name": "The National Art Museum",
+                "address": "Street Lenina, 20",
+                "latitude": 53.89847340873672,
+                "longitude": 27.56077135776869,
+                "recommendation": "One of the largest museums in Eastern Europe, housing a vast collection of Belarusian and international art."
+            },
+            {
+                "id": 9,
+                "name": "Y Gallery",
+                "address": "Street Kastrycnickaja, 19",
+                "latitude": 53.891480491039665,
+                "longitude": 27.57189156355414,
+                "recommendation": "A contemporary art gallery showcasing innovative works by Belarusian and international artists."
+            },
+            {
+                "id": 10,
+                "name": "Cultural Center Korpus",
+                "address": "Street Praspiekt Mašerava, 9",
+                "latitude": 53.915252341346914,
+                "longitude": 27.572769759398525,
+                "recommendation": "A vibrant cultural hub hosting a variety of events, including exhibitions, concerts, and performances."
+            },
+            {
+                "id": 11,
+                "name": "Art Belarus Gallery",
+                "address": "Street Kazlova, 3",
+                "latitude": 53.91015326504539,
+                "longitude": 27.579637242174673,
+                "recommendation": "Dedicated to Belarusian art, this gallery features works from the early 20th century to the present day."
+            },
+            {
+                "id": 12,
+                "name": "The Azgur Museum and Studio",
+                "address": "Street Zaira Azhura, 8",
+                "latitude": 53.899339879560074,
+                "longitude": 27.5785161857004,
+                "recommendation": "A museum and workshop of the famous Belarusian sculptor Zair Azgur, showcasing his life and works."
+            },
+            {
+                "id": 13,
+                "name": "Ў Gallery of Contemporary Art",
+                "address": "Street Kastryčnickaja, 19",
+                "latitude": 53.891480491039665,
+                "longitude": 27.57189156355414,
+                "recommendation": "A leading space for contemporary art in Belarus, featuring exhibitions, performances, and discussions."
+            },
+            {
+                "id": 14,
+                "name": "The Great Patriotic War Museum",
+                "address": "Prospekt Pobeditelei, 8",
+                "latitude": 53.9100441,
+                "longitude": 27.5415246,
+                "recommendation": "A must-visit for history enthusiasts, this museum offers a comprehensive view of Belarus' role in World War II."
+            }
+        ],
+        "hotels": [
+            {
+                "id": 15,
+                "name": "Minsk Marriott Hotel",
+                "address": "20 Pobediteley Avenue",
+                "latitude": 53.939192,
+                "longitude": 27.526743,
+                "recommendation": "A luxury hotel offering comfortable accommodations, dining options, and a spa."
+            },
+            {
+                "id": 16,
+                "name": "Hotel Europe",
+                "address": "28 Internatsionalnaya Street",
+                "latitude": 53.902421,
+                "longitude": 27.563965,
+                "recommendation": "A historic hotel in the heart of Minsk, known for its elegant rooms and excellent service."
+            },
+            {
+                "id": 17,
+                "name": "DoubleTree by Hilton Minsk",
+                "address": "9 Pobediteley Avenue",
+                "latitude": 53.908355,
+                "longitude": 27.553604,
+                "recommendation": "A modern hotel with contemporary amenities, dining options, and scenic views of the city."
+            },
+            {
+                "id": 18,
+                "name": "Renaissance Minsk Hotel",
+                "address": "1 Dzerzhinsky Avenue",
+                "latitude": 53.893217,
+                "longitude": 27.529349,
+                "recommendation": "A stylish hotel featuring luxurious rooms, a wellness center, and convenient access to local attractions."
+            }
+        ],
+        "shops": [
+            {
+                "id": 19,
+                "name": "GUM",
+                "address": "Prospekt Nezavisimosti, 21",
+                "latitude": 53.900674,
+                "longitude": 27.562189,
+                "recommendation": "A major department store offering a wide range of goods, from clothing to electronics."
+            },
+            {
+                "id": 20,
+                "name": "TSUM",
+                "address": "Prospekt Nezavisimosti, 54",
+                "latitude": 53.910984,
+                "longitude": 27.582732,
+                "recommendation": "A large shopping center with various stores, including fashion, cosmetics, and home goods."
+            },
+            {
+                "id": 21,
+                "name": "Komarovski Market",
+                "address": "Vera Kharuzhaya, 8",
+                "latitude": 53.917203,
+                "longitude": 27.579335,
+                "recommendation": "An iconic market where you can buy fresh produce, local delicacies, and various goods."
+            }
+        ]
+    }
+}
